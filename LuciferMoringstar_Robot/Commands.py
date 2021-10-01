@@ -334,7 +334,7 @@ async def delete(bot, message):
 async def bot_info(bot, message):
     buttons = [
         [
-            InlineKeyboardButton('More Botz', url='https://t.me/MT_Botz'),
+            InlineKeyboardButton('🎀Update Channel🎀', url='https://t.me/new_malayalam_moviez1'),
             InlineKeyboardButton('Video', url=f'{TUTORIAL}')
         ]
         ]
