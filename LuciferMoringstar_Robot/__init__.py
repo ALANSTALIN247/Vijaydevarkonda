@@ -27,17 +27,17 @@ Bot Owner Only
 
 [➡️How To Add Old Files For database](https://youtu.be/mtu5hgW-l_o)
 
-@Mo_Tech_YT
+@new_malayalam_moviez1
 """
 
 ABOUT = """
 ➥ Name :  Auto Filter With IMDB
     
-➥ Creator : [Muhammed RK](t.me/Mrk_YT)
+➥ Creator : [Alan](t.me/Alan_Sonu_Alan)
 
 ➥ Language : Python3
 
 ➥ Library : Pyrogram Asyncio 1.13.0
 
-➥ Source Code : [Click Me](https://github.com/PR0FESS0R-99/LuciferMoringstar_Robot)
+➥ Source Code : [Click Me](https://github.com/ALANSTALIN247/Vijaydevarkonda)
 """
