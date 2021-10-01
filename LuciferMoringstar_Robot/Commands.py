@@ -84,7 +84,7 @@ async def start(bot, message):
                     f_caption = f"{files.file_name}"
                 buttons = [
                     [
-                        InlineKeyboardButton('🙏 Join Main Channel🙏', url=f'new_malayalam_moviez1')
+                        InlineKeyboardButton('🙏 Join Main Channel🙏', url='new_malayalam_moviez1')
                     ],
                     [
                         InlineKeyboardButton('🔍 Search again 🔎', switch_inline_query_current_chat='')
